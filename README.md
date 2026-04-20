@@ -6,7 +6,6 @@
 A technical analysis exploring the relationship between ambient PM2.5 air pollution and US death statistics. This project leverages **Hadoop** (MapReduce paradigm) and **Java** to process, join, and analyze large-scale public health and air quality datasets. The codebase is modularized to accommodate flexible data preprocessing, statistical profiling, and complex joins required for environmental data analysis.
 
 https://air-quality-insights.replit.app/
-![National PM2.5 Distribution](assets/choropleth-preview.png)
 ---
 
 ## 📊 Project Overview
