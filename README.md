@@ -4,6 +4,7 @@
 [![Java](https://img.shields.io/badge/language-Java-blue.svg)](https://www.java.com/) [![Hadoop](https://img.shields.io/badge/built%20with-Hadoop-yellowgreen.svg)](https://hadoop.apache.org/)
 
 A technical analysis exploring the relationship between ambient PM2.5 air pollution and US death statistics. This project leverages **Hadoop** (MapReduce paradigm) and **Java** to process, join, and analyze large-scale public health and air quality datasets. The codebase is modularized to accommodate flexible data preprocessing, statistical profiling, and complex joins required for environmental data analysis.
+
 https://air-quality-insights.replit.app/
 ---
 
