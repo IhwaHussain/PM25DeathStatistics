@@ -13,7 +13,7 @@ public health and air quality datasets.
 
 ## 🔴 Live Demo
 
-**[https://air-quality-insights.replit.app/](https://air-quality-insights.replit.app/)**
+An interactive demo is available here: 👉**[https://air-quality-insights.replit.app/](https://air-quality-insights.replit.app/)**
 
 [![National PM2.5 Distribution](choropleth-preview.png)](https://air-quality-insights.replit.app/)
 
